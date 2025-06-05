@@ -1,0 +1,6 @@
+*.a
+*.o
+*.out
+.gdb_history
+_OUT
+.vscode
